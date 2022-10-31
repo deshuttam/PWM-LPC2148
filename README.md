@@ -15,6 +15,13 @@ Device Drivers: A device driver is a software program that controls a particular
 
 API: An Application Programming Interface is a set of subroutine definitions, communication protocols, and tools for building software. It is a set of clearly defined methods of communication among various components.
 
+Requirements: Software
+* DDGen Software
+* Microvsion Keil
+
+Hardware
+* LPC2148
+
 ### Register Details of LPC2148/PWM: 
 * PWM Timer Control Register 
 * PWM Prescale Register 
