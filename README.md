@@ -43,6 +43,7 @@ RTS file: It includes system specification and base address of peripheral.
 The generated drivers were simulated on Keil uvision5 by writing a test application. The waveform generated in logic analyzer and the updated register values were verified using the Simulator in Keil uvisions.
 
 Validation: After verifying the driver on simulator, it was implemented on the actual hardware i.e. LPC2148 Evaluation board by connecting to the CRO.
+
 ![image](https://user-images.githubusercontent.com/107185323/198998674-72b2a630-ebf5-4162-83e8-351859aaa8b6.png)
 
 ![image](https://user-images.githubusercontent.com/107185323/198998688-7facccd8-ccd5-4567-aa5b-bbc5831defc9.png)
@@ -50,6 +51,7 @@ Validation: After verifying the driver on simulator, it was implemented on the a
 ![image](https://user-images.githubusercontent.com/107185323/198998697-6703d443-6756-4328-91bf-0f9771988364.png)
 
 Verification results:
+
 ![image](https://user-images.githubusercontent.com/107185323/198998734-960a2e4d-d95b-460c-a237-09bc9783c9c5.png)
 
 
